@@ -127,8 +127,6 @@ Key focus areas include:
    ├── Algorithms
    ├── Operating Systems
    └── Database Systems
-
-
 ```
 
 ---
@@ -220,4 +218,3 @@ I believe creativity and technology can complement each other to create better e
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
 </p>
-

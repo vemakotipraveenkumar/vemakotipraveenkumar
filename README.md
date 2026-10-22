@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vemakotipraveenkumar-lang">
+  <a href="https://github.com/vemakotipraveenkumar">
     <img src="https://img.shields.io/github/followers/vemakotipraveenkumar?label=Followers&style=for-the-badge&logo=github&color=181717" />
   </a>
-  <a href="https://github.com/vemakotipraveenkumar-lang">
+  <a href="https://github.com/vemakotipraveenkumar">
     <img src="https://komarev.com/ghpvc/?username=vemakotipraveenkumar&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
   </a>
 </p>

@@ -10,7 +10,9 @@
   <a href="https://github.com/vemakotipraveenkumar">
     <img src="https://img.shields.io/github/followers/vemakotipraveenkumar?label=Followers&style=for-the-badge&logo=github&color=181717" />
   </a>
-  
+  <a href="https://github.com/vemakotipraveenkumar">
+    <img src="https://img.shields.io/github/profileview/vemakotipraveenkumar?label=profileview&style=for-the-badge&logo=github&color=181717" />
+  </a>
 </p>
 
 
